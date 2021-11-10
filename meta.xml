@@ -1,0 +1,4 @@
+<meta>
+    <info author="Mr3b" version="0.1" name="Auto Money" description="Auto Money For All players each 5m." type="script" />
+    <script src="sMoney.lua" type="server" />
+</meta>
